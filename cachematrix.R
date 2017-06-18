@@ -1,4 +1,4 @@
-## We take a matrix, and use lexical scoping to comute and cache its inverse
+## We take a matrix, and use lexical scoping to cache its inverse
 ## so that it can be directly fetched from the cache next time, and need not 
 ## be computed again, thereby saving computing resources. 
 
